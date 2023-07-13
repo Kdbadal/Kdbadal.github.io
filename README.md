@@ -8,4 +8,4 @@
 
 📩 Feel free to reach out to me through the various social media handles.
 
-<h2 align="center">HELLO 👋 , HERE IS MY <a href="https://himanshi-garg.netlify.app/"> PORTFOLIO WEBSITE </a></h2>
+<h3 align="center"><a href="https://himanshi-garg.netlify.app/"> PORTFOLIO WEBSITE </a></h3>
